@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shreyas Sagar</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
-- 🔭 I’m currently working on **Food-oredering-project**
+- 🔭 I’m currently working on **Food-ordering-project**
 
-- 🌱 I’m currently learning **microservices, java, Data Struchers And Algorithms**
+- 🌱 I’m currently learning **microservices, java, DSA**
 
 - 💬 Ask me about **React, nextJS, JavaScript, NodeJS, NextJS, MongoDB**
 
